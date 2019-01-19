@@ -1,0 +1,15 @@
+img {
+  width: 50%;
+}
+
+#like {
+  background-color: lightgreen;
+}
+
+#dislike {
+  background-color: lightgreen;
+}
+
+body {
+  background-color: lightblue;
+}
