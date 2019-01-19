@@ -1,3 +1,6 @@
+<link rel= "stylesheet" href="styles.css">
+<script src="functions.js"></script>
+
 <h1>Nachos</h1>
 
 <p>Welcome to my famous nachos recipe. Wanna learn how to make the most delicious nachos ever? Well, let's dive right in!</p>
