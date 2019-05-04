@@ -1,0 +1,61 @@
+<h1>Frozen Treats</h1>
+<h2>By: Michelle Y.</h2>
+
+<img src="https://static1.squarespace.com/static/53eadcede4b020c8f3d70b0b/t/556d05a8e4b022801f54a915/1433208234272/" alt="aesthetic popsicles" height=400>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color:#ECC4BB
+;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Grapefruit Popsicles</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#ECC4BB;">
+  <h2>Ingredients</h2>
+    <p>-Grapefruit Juice
+    <br>-Water
+    <br>-Mold of your choice
+    <br>-Popsicle Stick
+    <br>-A Freezer
+    </p>
+  </div>
+  <div class="column" style="background-color:#ECC4BB;">
+    <h2>Instructions</h2>
+    <p>First mix your juice and your wate and have it 85% juice and 15% water. The put it into your molder with a popsicle stick in it to get it out. Put it in your freezer for about 2-3 hours and then enjoy and send us a pic ;)</p>
+  </div>
+</div>
+
+</body>
+</html>
